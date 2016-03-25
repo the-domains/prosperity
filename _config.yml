@@ -1,28 +1,40 @@
-name: prosperity
 favicon: null
-layout_spectrum: 0.598002850310877
-typography_spectrum: 0.019694596529006958
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: prosperity
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3335123
+  brandStrength: 0.06412409082986414
+  lightness: 0.5827067
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.06412409082986414
-  lightness: 0.04271368379704654
-  saturation: 0.06724169501103461
-  rhythmicContrast: 0.17270894977264106
-purpose: []
+  rhythmicContrast: 0.1727089
+typography_spectrum: 0.5461869
+layout_spectrum: 0.4473684
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null

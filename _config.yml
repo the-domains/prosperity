@@ -1,0 +1,28 @@
+name: prosperity
+favicon: null
+layout_spectrum: 0.598002850310877
+typography_spectrum: 0.019694596529006958
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.06412409082986414
+  lightness: 0.04271368379704654
+  saturation: 0.06724169501103461
+  rhythmicContrast: 0.17270894977264106
+purpose: []
